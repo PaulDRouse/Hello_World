@@ -38,11 +38,6 @@ Hello_World/
 
 
 
-## ***Additional Documentation***
-
-No additional documentation at this time.  Here is some **BOLD** text 
-
-
 ## ***Versioning***
 
-*Since its a simple code the program only has one version
+*Since its a simple code the program only has one version*
