@@ -1,4 +1,4 @@
-## Table of contents
+# Table of contents
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
@@ -7,15 +7,14 @@
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
 
-## Project Title
+## ***Project Title***
+*Hello World* 
 
-*Hello World I'm Paul Rouse* 
-
-## Description
+## ***Description***
 
 Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
 
-## How to Run Program 
+## ***How to Run Program***
 
 Explain here how you would run the program and what files need to be available. 
 ```text
@@ -28,7 +27,7 @@ Hello_World/
    
 ```
 
-## Files Used 
+## ***Files Used*** 
 
 - Did you use any datafiles?  
 - List filenames
@@ -39,11 +38,11 @@ Hello_World/
 [Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
 
 
-## Additional Documentation
+## ***Additional Documentation***
 
 No additional documentation at this time.  Here is some **BOLD** text 
 
 
-## Versioning
+## ***Versioning***
 
 Discuss any versioning used especially if you are making major changes throughout the process of your code.
